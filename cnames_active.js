@@ -402,6 +402,7 @@ var cnames_active = {
   "blueconfig": "a-312.github.io/node-blueconfig",
   "blurple": "blurplejs.github.io/docs",
   "bo": "lfb.github.io/bojs",
+  "boblox": "olgakolina71-pixel.github.io/boblox",
   "boats": "discordboats.github.io",
   "bodybuilder": "danpaz.github.io/bodybuilder", // noCF? (don´t add this in a new PR)
   "boger": "boger.netlify.app",
@@ -2350,7 +2351,7 @@ var cnames_active = {
   "npm-card": "ultirequiem.github.io/create-npm-card",
   "npmdocs": "cname.vercel-dns.com", // noCF
   "npmer": "rumkin.github.io/npm-watch",
-  "npmgraph": "npmgraph.github.io/npmgraph",
+  "npmgraph": "cname.vercel-dns.com", // noCF
   "npwa": "cname.vercel-dns.com", // noCF
   "nrgy": "mnasyrov.github.io/nrgy",
   "nsptiles": "imthenachoman.github.io/nSPTiles", // noCF? (don´t add this in a new PR)
